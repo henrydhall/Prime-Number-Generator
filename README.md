@@ -6,7 +6,7 @@ Efficient prime number generator to make a list of prime numbers.
 * My Versions, #1-3
 
 # Time Comparisons
-![Graph of Times of Methods](https://github.com/henrydhall/Prime-Number-Generator/tree/main/Figures)
+![Graph of Times of Methods](https://github.com/henrydhall/Prime-Number-Generator/blob/main/Figures/Figure_1.png)
 
 ## Naive Approach
     NaivePrimeFinder:
