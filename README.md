@@ -18,8 +18,8 @@ the set of numbers checked to just primes generated so far made it much faster.
 
 Method #2 is slightly more efficient by checking 3 without doing modular division.
 
-Method #3 is a major dissapointment, I would have though eliminating multiples of 3 and 5 would improve it 
-even more but I was wrong. I think I could find a way to fix it, but so far I haven't.
+Method #3 is a major dissapointment, I would have thought eliminating multiples of 3 and 5 would improve it 
+even more but I was wrong. I think I could find a way to fix it, but so far I haven't had the time or energy.
 
 # Conclusions
 The ability to generator all prime numbers between 2 and 1,000,000 is kind of cool to have. 
