@@ -145,4 +145,10 @@ def create_performace_reports():
 if __name__ == '__main__':
     create_performace_reports()
     #prime_finder_2_2(1000)
+    """
+    startTime = time.time()
+    print(prime_finder_2_1(10000000)[-1])
+    endTime = time.time()
+    print(endTime-startTime)
+    """
     pass
